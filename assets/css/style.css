@@ -1,0 +1,8 @@
+.profileimg {
+  width: 20rem;
+  height: auto;
+  display: flex;
+}
+.usericon {
+  height: 2rem;
+}
